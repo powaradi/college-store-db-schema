@@ -1,1 +1,1 @@
-# Store-Management-Project
+# college-store-db-schema
