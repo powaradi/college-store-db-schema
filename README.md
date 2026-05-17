@@ -21,9 +21,6 @@ Providing a centralized reference for all team members
 Note:
 All records currently stored inside tables are sample/demo records only and are NOT real production data.
 
-<img width="1393" height="1043" alt="Database Schema" src="https://github.com/user-attachments/assets/fea8aefc-bb85-42a6-a75d-14148f84a21d" />
-
-
 
 | Table Name    | Purpose                                                                    |
 | ------------- | -------------------------------------------------------------------------- |
@@ -37,3 +34,4 @@ All records currently stored inside tables are sample/demo records only and are 
 
 
 
+<img width="1393" height="1043" alt="Database Schema" src="https://github.com/user-attachments/assets/fea8aefc-bb85-42a6-a75d-14148f84a21d" />
